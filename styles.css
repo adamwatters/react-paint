@@ -1,0 +1,29 @@
+.codel {
+	height: 15px;
+	width: 15px;
+	border: 1px solid;
+	border-color: black;
+	background-color: yellow;
+	float: left;
+}
+
+.codel-row {
+	clear: both;
+}
+
+.paint-jar {
+	height: 30px;
+	width: 30px;
+	border: 1px solid;
+	float: left;
+	margin: 25px;
+}
+
+.palette {
+	height: 80px;
+	width: 300px;
+	border: 1px solid;
+	float: left;
+	margin: 25px;
+}
+
